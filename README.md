@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lorenzodo
+- 👋 Hi, I’m Lorenzo Jose
 - 👀 I’m interested in data analyst/business analyst
 - 🌱 I’m currently learning Data Analyst tools
 - 📫 Please feel free to reach me on LinkedIn - https://www.linkedin.com/in/lorenzo-jose-56857b109/
